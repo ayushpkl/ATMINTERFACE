@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGusseing {
+public class NumberGuessing {
     public static void main(String[] args) {
         int lowRange = 1;
         int highRange = 100;
